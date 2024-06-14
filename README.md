@@ -1,8 +1,7 @@
 ### Hello Hello Hello !!!
 <img src="https://res.cloudinary.com/dbncp99x2/image/upload/v1718389732/pL17_ponuke.png" />
 <li>I am an Engineer, having pursued my BTECH from IIT Dhanbad.</li>
-<li>I have a good knowledge of Full Stack & Blockchain Technology. I consider myself a constant, responsible, innovative and creative person.</li>
-<li>Additionally, I have a strong interest in CyberSecurity.</li>
+<li>I have a good knowledge of Full Stack & Blockchain Technology. I consider myself a constant, responsible, innovative and creative person. Additionally, I have a strong interest in CyberSecurity.</li>
 
 <!--
 **PiyushLunawat/PiyushLunawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
