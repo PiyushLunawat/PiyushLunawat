@@ -1,6 +1,6 @@
 ## Hello Hello Hello !!!
 
-<img src="https://res.cloudinary.com/dbncp99x2/image/upload/v1718389466/pL-17_tw7o3z.png" />
+<img src="https://res.cloudinary.com/dbncp99x2/image/upload/v1718389732/pL17_ponuke.png" />
 
 I am an Engineer, having pursued my BTECH from IIT Dhanbad.<br>
 I have a good knowledge of Full Stack & Blockchain Technology. I consider myself a constant, responsible, innovative and creative person.<br>
