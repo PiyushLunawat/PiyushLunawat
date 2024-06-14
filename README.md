@@ -1,6 +1,7 @@
 ## Hello Hello Hello !!!
 
-I am an Engineer with a good knowledge of Full Stack & Blockchain Technology. I consider myself a constant, responsible, innovative and creative person.
+I am an Engineer, having pursued my BTECH from IIT Dhanbad.
+I have a good knowledge of Full Stack & Blockchain Technology. I consider myself a constant, responsible, innovative and creative person.
 Additionally, I have a strong interest in CyberSecurity.
 
 <!--
