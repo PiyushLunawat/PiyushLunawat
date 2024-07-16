@@ -1,8 +1,8 @@
 <img src="https://res.cloudinary.com/dbncp99x2/image/upload/v1718389732/pL17_ponuke.png" />
-<h3> Hello Hello Hello !!</h3>
-<li>I am an Engineer, having pursued my BTECH from IIT Dhanbad.</li>
-<li>I have a good knowledge of Full Stack & Blockchain Technology.<br>
- I consider myself a constant, responsible, innovative and creative person. Additionally, I have a strong interest in CyberSecurity.</li>
+<h3>HeLLo HeLLo HeLLo !!</h3>
+<li>I aM aN EnGiNeEr, HaViNg PuRsUeD My BTECH FrOm IIT DhAnBaD.</li>
+<li>I hAvE a GoOd KnOwLeDgE oF FuLl StAcK & BlOcKcHaIn TeChNoLoGy.<br>
+I cOnSiDeR MySeLf A CoNsTaNt, ReSpOnSiBlE, InNoVaTiVe AnD CrEaTiVe PeRsOn. AdDiTiOnAlLy, I HaVe A StRoNg InTeReSt In CyBeRsEcUrItY.</li>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushlunawat&label=Profile%20views&color=0e75b6&style=flat" alt="piyushlunawat" /> </p> -->
 <!--
