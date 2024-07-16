@@ -1,8 +1,8 @@
 <img src="https://res.cloudinary.com/dbncp99x2/image/upload/v1718389732/pL17_ponuke.png" />
 <h3>HeLLo HeLLo HeLLo !!</h3>
-<li>I aM aN EnGiNeEr, HaViNg PuRsUeD My BTECH FrOm IIT DhAnBaD.</li>
-<li>I hAvE a GoOd KnOwLeDgE oF FuLl StAcK & BlOcKcHaIn TeChNoLoGy.<br>
-I cOnSiDeR MySeLf A CoNsTaNt, ReSpOnSiBlE, InNoVaTiVe AnD CrEaTiVe PeRsOn. AdDiTiOnAlLy, I HaVe A StRoNg InTeReSt In CyBeRsEcUrItY.</li>
+<li>I aM aN EnGiNeer, HaVing PuRsUeD My BTECH FrOm IIT DhAnbaD.</li>
+<li>I hAve a GoOd KnOwLedgE oF FuLl StAck & BlOckcHain TeChNoloGy.<br>
+I cOnSiDeR MySeLf A CoNsTaNt, ReSpOnSiblE, InNoVaTive AnD CreAtiVe PeRson. AdDiTionAlLy, I HaVe A sTroNg InTereSt In CyBerSecUritY.</li>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushlunawat&label=Profile%20views&color=0e75b6&style=flat" alt="piyushlunawat" /> </p> -->
 <!--
