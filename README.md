@@ -1,7 +1,6 @@
 <img src="https://res.cloudinary.com/dbncp99x2/image/upload/v1718389732/pL17_ponuke.png" />
-## Hello Hello Hello !!
-
-- **I am an Engineer, having pursued my BTECH from IIT Dhanbad.**
+<h2 style="font-family: 'Comic Sans MS', cursive, sans-serif;">HeLLo HeLLo HeLLo !!</h2>
+I am an Engineer, having pursued my BTECH from IIT Dhanbad.
 - **I have a good knowledge of Full Stack & Blockchain Technology.**
 - **I consider myself a constant, responsible, innovative, and creative person. Additionally, I have a strong interest in Cybersecurity.**
 
