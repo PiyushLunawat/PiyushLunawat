@@ -3,7 +3,7 @@
 <ul class="disc">
   <li><h4>I aM aN EnGiNeer, HaVing PuRsUeD My BTECH FrOm IIT DhAnbaD.</h4></li>
   <li><h4>I hAve a GoOd KnOwLedgE oF FuLl StAck & BlOckcHain TeChNoloGy.</h4></li>
-  <li><h4>I cOnSiDeR MySeLf A CoNsTaNt, ReSpOnSiblE, InNoVaTive AnD CreAtiVe PeRson. AdDiTionAlLy, I HaVe A sTroNg InTereSt In CyBerSecUritY.</h4></li>
+  <li><h4>I cOnsiDeR MySeLf A CoNstaNt, ReSponSiblE, InNoVative AnD CreAtiVe PeRson. AdDiTionAlLy, I HaVe A sTroNg InTereSt In CyBerSecUritY.</h4></li>
 </ul>
 
 
